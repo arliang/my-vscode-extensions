@@ -1,0 +1,297 @@
+{
+	"__metadata": {
+		"galleryApiUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+		"id": "214cbfb9-7c06-4467-bad4-357ae83eb587",
+		"publisherId": "4434843a-4ebf-4f44-84f5-4176380c492d",
+		"publisherDisplayName": "johnpapa",
+		"installCount": 23236,
+		"versions": [
+			{
+				"version": "0.4.4",
+				"date": "2016-05-04T08:24:40.28Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "2b79a08dbfdb49edaac0ea7eee3ea2dfaa47239722da3ec1a607cb3144128bb3"
+				},
+				"downloadUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.4.4/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.4.4/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.4.3",
+				"date": "2016-05-03T22:05:10.367Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "2b79a08dbfdb49edaac0ea7eee3ea2dfaa47239722da3ec1a607cb3144128bb3"
+				},
+				"downloadUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.4.3/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.4.3/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.4.2",
+				"date": "2016-05-03T16:13:21.33Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "2b79a08dbfdb49edaac0ea7eee3ea2dfaa47239722da3ec1a607cb3144128bb3"
+				},
+				"downloadUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.4.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.4.2/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.4.1",
+				"date": "2016-05-02T23:05:30.553Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "2b79a08dbfdb49edaac0ea7eee3ea2dfaa47239722da3ec1a607cb3144128bb3"
+				},
+				"downloadUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.4.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.4.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.4.0",
+				"date": "2016-05-02T22:53:07.323Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "2b79a08dbfdb49edaac0ea7eee3ea2dfaa47239722da3ec1a607cb3144128bb3"
+				},
+				"downloadUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.4.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.4.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.3.2",
+				"date": "2016-03-27T21:55:15Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "2b79a08dbfdb49edaac0ea7eee3ea2dfaa47239722da3ec1a607cb3144128bb3"
+				},
+				"downloadUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.3.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.3.2/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.3.1",
+				"date": "2016-03-27T12:36:03Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "2b79a08dbfdb49edaac0ea7eee3ea2dfaa47239722da3ec1a607cb3144128bb3"
+				},
+				"downloadUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.3.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.3.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.3.0",
+				"date": "2016-03-24T23:05:21.837Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "2b79a08dbfdb49edaac0ea7eee3ea2dfaa47239722da3ec1a607cb3144128bb3"
+				},
+				"downloadUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.3.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.3.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.2.1",
+				"date": "2016-03-19T16:58:11.667Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "2b79a08dbfdb49edaac0ea7eee3ea2dfaa47239722da3ec1a607cb3144128bb3"
+				},
+				"downloadUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.2.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.2.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.2.0",
+				"date": "2016-03-19T16:37:32.383Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "2b79a08dbfdb49edaac0ea7eee3ea2dfaa47239722da3ec1a607cb3144128bb3"
+				},
+				"downloadUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.2.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.2.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.1.13",
+				"date": "2015-12-28T19:21:56.8Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "2b79a08dbfdb49edaac0ea7eee3ea2dfaa47239722da3ec1a607cb3144128bb3"
+				},
+				"downloadUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.1.13/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.1.13/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.1.12",
+				"date": "2015-12-28T19:19:19.53Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "2b79a08dbfdb49edaac0ea7eee3ea2dfaa47239722da3ec1a607cb3144128bb3"
+				},
+				"downloadUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.1.12/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.1.12/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.1.11",
+				"date": "2015-12-23T02:04:04.647Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "2b79a08dbfdb49edaac0ea7eee3ea2dfaa47239722da3ec1a607cb3144128bb3"
+				},
+				"downloadUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.1.11/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.1.11/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.1.10",
+				"date": "2015-12-12T19:01:34.613Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "2b79a08dbfdb49edaac0ea7eee3ea2dfaa47239722da3ec1a607cb3144128bb3"
+				},
+				"downloadUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.1.10/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.1.10/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.1.9",
+				"date": "2015-11-20T02:47:56.423Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "2b79a08dbfdb49edaac0ea7eee3ea2dfaa47239722da3ec1a607cb3144128bb3"
+				},
+				"downloadUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.1.9/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.1.9/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.1.8",
+				"date": "2015-11-19T12:05:04.003Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "2b79a08dbfdb49edaac0ea7eee3ea2dfaa47239722da3ec1a607cb3144128bb3"
+				},
+				"downloadUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.1.8/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.1.8/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.1.7",
+				"date": "2015-11-19T11:41:44.38Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "2b79a08dbfdb49edaac0ea7eee3ea2dfaa47239722da3ec1a607cb3144128bb3"
+				},
+				"downloadUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.1.7/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.1.7/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.1.5",
+				"date": "2015-11-14T13:17:04.76Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "2b79a08dbfdb49edaac0ea7eee3ea2dfaa47239722da3ec1a607cb3144128bb3"
+				},
+				"downloadUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.1.5/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.1.5/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.1.4",
+				"date": "2015-11-13T04:46:53.59Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "2b79a08dbfdb49edaac0ea7eee3ea2dfaa47239722da3ec1a607cb3144128bb3"
+				},
+				"downloadUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.1.4/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.1.4/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.1.3",
+				"date": "2015-11-13T04:42:20.79Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "2b79a08dbfdb49edaac0ea7eee3ea2dfaa47239722da3ec1a607cb3144128bb3"
+				},
+				"downloadUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.1.3/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.1.3/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.1.2",
+				"date": "2015-11-13T04:27:02.01Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "2b79a08dbfdb49edaac0ea7eee3ea2dfaa47239722da3ec1a607cb3144128bb3"
+				},
+				"downloadUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.1.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.1.2/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.1.1",
+				"date": "2015-11-13T04:25:23.887Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "2b79a08dbfdb49edaac0ea7eee3ea2dfaa47239722da3ec1a607cb3144128bb3"
+				},
+				"downloadUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.1.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.1.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.1.0",
+				"date": "2015-11-13T04:21:38.987Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"User-Agent": "VSCode",
+					"X-Market-User-Id": "2b79a08dbfdb49edaac0ea7eee3ea2dfaa47239722da3ec1a607cb3144128bb3"
+				},
+				"downloadUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.1.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://johnpapa.gallery.vsassets.io/_apis/public/gallery/publisher/johnpapa/extension/Angular2/0.1.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			}
+		]
+	},
+	"name": "Angular2",
+	"publisher": "johnpapa",
+	"displayName": "Angular 2 TypeScript Snippets",
+	"description": "Angular 2 TypeScript snippets",
+	"icon": "images/angular-shield.png",
+	"galleryBanner": {
+		"color": "#0273D4",
+		"theme": "dark"
+	},
+	"license": "SEE LICENSE IN LICENSE.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/johnpapa/vscode-angular2-snippets.git"
+	},
+	"version": "0.4.4",
+	"engines": {
+		"vscode": "0.10.x"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "typescript",
+				"path": "./snippets/typescript.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/html.json"
+			}
+		]
+	}
+}
